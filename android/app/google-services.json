@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387894768001",
+    "project_id": "tstore-61da6",
+    "storage_bucket": "tstore-61da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387894768001:android:a930601d9e3fdd8bf27880",
+        "android_client_info": {
+          "package_name": "com.example.cwt_ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387894768001-hldpfm8n12bhsue9k7sa3mt108uo923n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUc1qp4jCuWX9jUx43lHBanTS9SZJ2AYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387894768001-hldpfm8n12bhsue9k7sa3mt108uo923n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
